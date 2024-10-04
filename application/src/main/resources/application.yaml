@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: build-engineer-coding-exercise
+
+server:
+  port: 8889
+  shutdown: graceful
+
+logging:
+  level:
+    root: warn
+    com.attentivemobile: info
